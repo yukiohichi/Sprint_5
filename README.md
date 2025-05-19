@@ -24,7 +24,8 @@ project/
 │ ├── test_registration_user.py # Тесты регистрации и авторизации
 │ └── test_advertisement.py # Тесты создания объявления
 │
-├── conftest.py # Фикстуры Pst
+├── conftest.py # Фиксы Pytest
+
 
 ```
 ---
